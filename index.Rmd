@@ -1,7 +1,7 @@
 ---
-title: "Teamentwicklung im digitalen Raum"
+title: "Teamentwicklung im digitalen Raum der Öffentlichen Verwaltung"
 description: |
-  Eine gemeinsame Betrachtung von Leitenden aus der Öffentlichen Verwaltung.
+  Eine gemeinsame (und anonymisierte) Betrachtung von Führungskräften aus der deutschen Verwaltung während eines Online Seminars.
 author:
   - name: Sebastian Sukstorf
     url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
