@@ -4,10 +4,8 @@ description: |
   Eine gemeinsame (und anonymisierte) Betrachtung von Führungskräften aus der deutschen Verwaltung während eines Online Seminars.
 author:
   - name: Sebastian Sukstorf
-    
     orcid_id: 0000-0002-1538-5658
     github: sebastiansukstorf
-    orcid: 0000-0002-1538-5658
     twitter: sukstorf
     email: info@sebastian.sukstorf.de
     affiliation: Sebastian Sukstorf - Consulting & Coaching
@@ -19,21 +17,89 @@ output:
 repository_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
 compare_updates_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum/compare/pubv1...master
 creative_commons: CC BY-NC
+citation_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+slug: sukstorf2021teamentwicklung
     
 ---
 
-# Über einen verwirrenden Titel - 
+# Ein (eventuell) verwirrender Titel und viele Gemeinsamkeiten
 
-Der Titel mag ein wenig verwirren.
-Allerdings handelt es sich hierbei tatsächlich um die Teamentwicklung von Teams innerhalb der öffentlichen Verwaltung.
-
-Dennoch sollte nicht vernachlässigt werden, dass es sich hierbei vielleicht um einen Anachronismus handelt.
+Der Titel mag ein wenig verwirren. 
 Teamentwicklung im digitalen Raum der öffentlichen Verwaltung.
-Stiftet der Titel nicht schon eine Verwirrung an sich?
+Stiftet der Titel nicht schon Verwirrung an sich?
 
-Hier muss ich alle vermeindlichen "Lästerer" über den akteullen Stand der Digitalisierung in der Öffentlichen Verwaltung gleich widersprechen, und den vermeindlichen Wind uas den Segelen nehmen.
+Hier muss ich gleich allen KritikerInnen zur  Digitalisierung in der Öffentlichen Verwaltung widersprechen, und den vermeintlichen Wind aus den Segeln nehmen.
 
-Die über 12 TeilnehmerInnne an dem online seminar zum Thema "Teamentwicklung im digitalen Raum" hat sich explizit an Führungskräft von norddeutshcen Behördenb und Ministerein gewand.
+Soviel darf bereits verraten werden: Die Problemlagen - oder neudeutsch: die _Pain Points_ - von Führungskräften der öffentlichen Verwaltung und der freien Wirtschaft unterschieden sich nicht wesentlich
 
-Soviel darf bereits verraten werden: Die Problemlagen - oder neudeutsch: die Pain Points - von Führungskräften der öffentlichen Verwaltung und der frien Wirtschaft untershciedne sich momenat nicht wirklich.
+Die **Teamentwicklung** - jetzt auch virtuell - gut zu gestalten ist eine permanente Aufgabe von Führungskräften. 
+Hier gibt es kaum Unterschiede zwischen privater Wirtschaft und Öffentlicher Verwaltung.
+
+Auch die Erkenntnis bei den Führungskräften, ihrer **Rolle als Führungskraft** von virtuellen Teams gerecht zu werden - oder hierbei eine eventuelle neue Rolle zu gestalten- ist erkannt und den TeilnehmerInnen deutlich (und vielleicht sogar schmerzlich) bewusst.
+
+Ein wesentlicher Unterschied lässt sich in dem **IT-Einsatz** zur virtuellen Zusammenarbeit feststellen. 
+Hier ist die private Wirtschaft sicherlich schneller. 
+Die Öffentliche Verwaltung kann viele Techniken aufgrund von Vorgaben zum Datenschutz und fehlender IT (noch) nicht einsetzten.
+
+# Herausforderungen zur Teamentwicklung in Behörden und Ministerien
+
+Das Online Seminar zum Thema [Teamentwicklung im digitalen Raum](https://www.haw-hamburg.de/weiterbildung/berufsbegleitend/public-management-verwaltung/virtuelle-fuehrung-digitale-team-entwicklung/) hat sich explizit an Führungskräfte/Leiter von Behörden und Ministerin gewandt.
+
+
+## Anlässe der Teamentwicklung
+
+Die Anlässe der Teamentwicklung sind bei den TeilnehmerInnen unterschiedlich gelagert. 
+
+> Mein Team ist um neue Aufgabenbereiche angewachsen und das Team ist durch Personalzuwachs größer geworden.
+
+Eine hohe Übereinstimmung hatten einige TeilnehmerInnen in dem Anwachsen von Teams durch neue MitarbeiterInnen.
+Diese ergeben sich oft durch Veränderungen in den Aufgabenbereichen einzelner Teams.
+Hierdurch ist eine Zusammenlegung von Teams notwendig.
+Dies führt dann zu einer **Vergrößerung** der einzelnen Teams.
+
+Es wurde der Wunsch artikuliert, wie es Führungskräften gut gelingt, neue MitarbeiterInnen in die Teams zu integrieren.
+Welche Möglichkeiten haben Führungskräfte, um auf die Anforderungen und Bedürfnisse der KollegInnen einzugehen?
+
+> Ich erhoffe mir, hier Anregungen und Impulse zu gewinnen, wie ich mit den Anforderungen und Bedürfnissen meiner Mitarbeiterinnen umgehen kann und ihnen bestenfalls gerecht werden kann.
+
+Eine weiter Herausforderung ist die Führung der einzelnen Teams über **Distanz**. Ein Großteil der MitarbeiterInnen der Teams befindet sich in den teilnehmenden Ministerien und Behörden derzeit im Homeoffice. 
+
+> Mein Team ist überwiegend im Homeoffice und die Teamzusammensetzung ändert sich in Kürze. Für die Führung des Teams in Distanz erhoffe ich mir Tipps.
+
+Die Führungskräfte der Behörden und Ministerien stellen sich die Frage, wie die **Mitarbeiterführung** aus der Ferne gut funktionieren kann, wie sie sich gegenüber den MitarbeiterInnen verhalten soll und wie sich stärker eingebunden werden könnte.
+
+> Da sich mein Team verdoppelt hat, wünsche ich mir Unterstützung bei der Teamentwicklung generell, speziell natürlich aus dem Homeoffice heraus.
+
+Wie gelingt **Teambindung** im Homeoffice? 
+Wie kann eine neue Teamstruktur verbessert werden? 
+Wie kann eine gute Teamstruktur aus der Präsenzarbeit in den virtuellen Raum aufrecht erhalten bleiben und gut gestaltet werden? 
+
+> Relativ neues Team, neues Personal und durch die Homeoffice-Herausforderung. Die Teambindung und -struktur verbessern und aufrecht erhalten. Wie kann die Teamleitung aus der Ferne besser agieren und eingebunden werden?
+
+Auch die Beziehung zwischen den MitarbeiterInnen und der Führungskraft ist eine andauerndes Thema.
+Hier wurde von den TeilnehmerInnen oft der Begriff **Vertrauen** angesprochen.
+Wie gelingt es Führungskräften Vertrauen in virtuellen Teams aufzubauen?
+
+> Wie gelingt die Beziehungsbildung zwischen der Teamleitung und den MitarbeiterInnen und zwischen den MitarbeiterInnen untereinander?
+
+## Homeoffice und Führung
+
++ Mehr Systematik in meinem aktuellen digitales Führungshandeln erlangen. Anregungen für die Integration neuer TeamkollegInnen bekommen.
+
++ Teamaufteilung Homeoffice/Büro. Zusammenhalt erhalten. Methoden der Teambindung bei stark getrennten Aufgabenbereichen. Austauschmöglichkeiten über Arbeitsanlässe hinweg.
+
++ Team auf vier Standorte verteilt. Homeoffice/Videokonferenzen Gewinn & Chance für unkompliziertere Treffen. Andererseits ist Altersdurchschnitt sehr hoch, TN*innen "trauern" den Treffen in Präsenz nach.
+
+## Neue Tools
+
++ Anregungen bekommen und neue Tools kennenlernen
+
+
+# MitarbeiterInnen einbinden und Beziehungen aufbauen
+
+
+# Beziehungen digital gestalten
+
+
+# Kommunikation in virtuellen Teams
 
